@@ -11,6 +11,10 @@ This repository demonstrates the means to use gdb to debug ROS node.
     </node>
 ```
 
+Apart from gdp, you can also use Valgrind for memory related issue.
+
+https://valgrind.org/docs/manual/quick-start.html
+
 ## Reference
 - ROS GDB: https://www.programmersought.com/article/1271458625/
 - VSCODE ROS GDB: https://www.programmersought.com/article/28548719454/
